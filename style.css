@@ -1,1 +1,7 @@
-.conteúdo {background-color: blanchedalmond;}
+.conteúdo {
+    background-color: #1A120B;
+}
+.título { 
+    color: #CDC9B3 ; 
+    font: size 70px;;
+}
